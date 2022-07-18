@@ -25,5 +25,4 @@
 
 <a href="https://github.com/elfbrtc/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=elfbrtc&style=for-the-badge&logo=ghost&logoColor=white">
-</a>
-<a href="https://github.com/ktoqaloglu?tab=followers"><img src="https://img.shields.io/github/followers/elfbrtc?label=Followers&style=for-the-badge&logo=ghost&logoColor=white" alt="GitHub Badge"></a>
+
