@@ -23,6 +23,3 @@
     </a>
 </p>
 
-<a href="https://github.com/elfbrtc/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=elfbrtc&style=for-the-badge&logo=ghost&logoColor=white">
-
