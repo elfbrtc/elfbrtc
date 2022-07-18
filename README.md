@@ -22,3 +22,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elfbrtc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<a href="https://github.com/elfbrtc/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=elfbrtc&style=for-the-badge&logo=ghost&logoColor=white">
+</a>
+<a href="https://github.com/ktoqaloglu?tab=followers"><img src="https://img.shields.io/github/followers/elfbrtc?label=Followers&style=for-the-badge&logo=ghost&logoColor=white" alt="GitHub Badge"></a>
