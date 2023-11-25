@@ -2,6 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elif-barutcu">
+ <img align="left"width="22px "src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png"/>
 </a>
  <a href="https://www.instagram.com/kitaplaringunesi">
  <img align="left" alt="oguncan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
