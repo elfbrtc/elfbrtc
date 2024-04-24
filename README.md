@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I%27m+Elif)](https://git.io/typing-svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/elif-barutcu">
+<a href="https://www.linkedin.com/in/elif-barutcu ">
  <img align="left"width="22px "src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png"/>
 </a>
  <a href="https://www.instagram.com/kitaplaringunesi">
